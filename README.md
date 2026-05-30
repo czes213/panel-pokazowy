@@ -1,4 +1,4 @@
-# Kombajn BI - AI-Powered Business Intelligence Platform 🤖📊
+# VIBE-demo BI - AI-Powered Business Intelligence Platform 🤖📊
 
 An end-to-end Business Intelligence and automated reporting platform that transforms raw data into production-ready PDF analytical insights using local LLMs and ultra-fast data processing. Built specifically for high-performance data pipeline automation.
 
